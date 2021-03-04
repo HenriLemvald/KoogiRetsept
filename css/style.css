@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+
+img{
+    width: 200px;
+}
+
+
+h3{
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.footer{
+    margin-top: 4rem;
+    text-align: center;
+}
